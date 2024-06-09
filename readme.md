@@ -6,7 +6,7 @@ No major changes
 
 # Original Readme
 
-# Anne Pro 2 Tools`
+# Anne Pro 2 Tools
 
 This is an alternative firmware update tool for the Anne Pro 2.
 It allows you to flash custom firmware onto the Anne Pro 2.
